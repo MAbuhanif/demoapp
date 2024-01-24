@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "abe demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAbuhanif/demoapp.git"
+  },
+  "author": "mundino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAbuhanif/demoapp/issues"
+  },
+  "homepage": "https://github.com/MAbuhanif/demoapp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.8.0"
+  }
+}
